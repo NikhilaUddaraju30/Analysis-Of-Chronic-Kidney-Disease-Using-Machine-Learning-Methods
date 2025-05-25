@@ -1,4 +1,4 @@
-ANALYSIS OF CHRONIC KIDNEY DISEASE PREDICTION USING MACHINE LEARNING METHOD
+                        NALYSIS OF CHRONIC KIDNEY DISEASE PREDICTION USING MACHINE LEARNING METHOD
 
 Chronic kidney disease (CKD) prediction is indeed a crucial issue in healthcare analytics, and machine learning can play an important role in improving the accuracy of prediction models.
 Machine learning algorithms can analyse large amounts of data quickly and efficiently, allowing healthcare providers to make more informed decisions about patient diagnosis and
